@@ -1,7 +1,7 @@
 //1
 const express = require('express');
 const path = require('path');
-const api = require('./public/assets/index.js');
+const api = require('./public/assets/js/index');
 
 
 const PORT = process.env.PORT || 3001;
@@ -10,8 +10,8 @@ const app = express();
 
 // //Don't know if I need it
 // // Middleware for parsing JSON and urlencoded form data
-// app.use(express.json());
-// app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 //api URL link starter (can't use without being complete)
 //http://localhost:3001/api
