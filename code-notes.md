@@ -10,7 +10,7 @@ The application’s front end has already been created. It's your job to build t
 
 video - https://youtu.be/xyV4n2enZ1M
 
-repo (github) - 
+repo (github) - https://github.com/eecmanny/Fetch-My-Notes
 
 repo (heroku) - 
 
