@@ -7,5 +7,10 @@
         "title": "Test",
         "text": "Test note\n",
         "id": "0276b360-cbeb-4ba4-9c36-999624758415"
+    },
+    {
+        "title": "Video example",
+        "text": "video example small text\n",
+        "id": "ba13140a-9b0a-4775-a8f5-76aa743976bc"
     }
 ]
