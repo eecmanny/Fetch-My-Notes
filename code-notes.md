@@ -12,8 +12,7 @@ video - https://youtu.be/xyV4n2enZ1M
 
 repo (github) - https://github.com/eecmanny/Fetch-My-Notes
 
-repo (heroku) - 
-
+repo (heroku) - [](https://fetch-my-notes-79c1d39375dd.herokuapp.com/)
 
 ## User Story
 
